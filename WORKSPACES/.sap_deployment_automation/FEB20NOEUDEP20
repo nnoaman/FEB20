@@ -13,5 +13,5 @@ REMOTE_STATE_SA=feb20noeutfstateb51
 REMOTE_STATE_RG=FEB20-NOEU-SAP_LIBRARY
 tfstate_resource_id=/subscriptions/d6c8e3b6-467e-452e-97c9-49d9de9e37da/resourceGroups/FEB20-NOEU-SAP_LIBRARY/providers/Microsoft.Storage/storageAccounts/feb20noeutfstateb51
 DEPLOYER_KEYVAULT=FEB20NOEUDEP20user20A
-ARM_SUBSCRIPTION_ID=d6c8e3b6-467e-452e-97c9-49d9de9e37da
 step=3
+ARM_SUBSCRIPTION_ID=d6c8e3b6-467e-452e-97c9-49d9de9e37da
